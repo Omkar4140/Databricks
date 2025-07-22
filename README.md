@@ -1,4 +1,4 @@
-''' mermaid
+```mermaid
 flowchart TD
     subgraph "Data Sources"
         Kafka[Kafka Stream]
@@ -30,4 +30,4 @@ flowchart TD
         Gold --> MLModel
         Gold --> BI
     end
-'''
+```
