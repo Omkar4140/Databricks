@@ -1,5 +1,3 @@
-# Databricks
-
 flowchart TD
     subgraph "Data Sources"
         Kafka[Kafka Stream]
